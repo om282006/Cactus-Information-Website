@@ -1,4 +1,3 @@
-# Cactus-Information-Website
 # Cactus Information Website (Full-stack)
 This project is a college assignment web application.
 It includes:
